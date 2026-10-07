@@ -13,7 +13,7 @@ easy/
     question4.cpp      Find the average of array elements
     question5.cpp      Count even and odd array elements
 hard/
-  array/                Empty for now
+  array/                Empty 
 ```
 
 ## Compile and run
