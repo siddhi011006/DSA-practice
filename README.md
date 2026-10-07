@@ -9,9 +9,9 @@ basic/
   question1.cpp        Find the maximum array element
   question2.cpp        Find the minimum array element
   question3.cpp        Find the sum of array elements
-moderate/              Empty for now
-difficult/             Empty for now
-interview-questions/   Empty for now
+moderate/              Empty 
+difficult/             Empty 
+interview-questions/   Empty 
 ```
 
 ## Compile and run
