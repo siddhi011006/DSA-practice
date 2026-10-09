@@ -12,6 +12,8 @@ easy/
     question3.cpp      Find the sum of array elements
     question4.cpp      Find the average of array elements
     question5.cpp      Count even and odd array elements
+    question6.cpp      Reverse an array
+    question7.cpp      Print an array in reverse order
 hard/
   array/                Empty 
 ```
